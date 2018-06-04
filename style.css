@@ -1,0 +1,36 @@
+body {
+
+}
+
+h1, h2 {
+  font-family: monospace;
+  color: blue;
+}
+
+#cap {
+  color: red;
+}
+
+#btn {
+  display: block;
+  height: 25px;
+  width: 175px;
+  background-color: green;
+  color: white;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+
+#beatrice {
+  background-color: aqua;
+}
+
+#submit {
+  /* display: block; */
+  height: 25px;
+  width: 175px;
+  background-color: green;
+  color: white;
+  margin-left: 20px;
+  border-radius: 5px;
+}

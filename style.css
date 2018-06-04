@@ -1,22 +1,36 @@
 body {
+  background-image: url('http://s2.thingpic.com/images/nY/yef3mCNnDoEG1KWApT6uDDmX.jpeg');
+  background-size: cover;
+}
 
+#container {
+  background-color: #D4D8D9;
+  padding: 50px;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 15%;
+  box-shadow: 0 0 30px #000;
 }
 
 h1, h2 {
   font-family: monospace;
-  color: blue;
+  text-align: center;
 }
 
-#cap {
+h1 {
+  margin-bottom: 50px;
+}
+
+#span1, #span2 {
   color: red;
 }
 
 #btn {
   display: block;
-  height: 25px;
-  width: 175px;
-  background-color: green;
+  font-size: 25px;
+  background-color: rgb(63, 107, 202);
   color: white;
+  margin: 0 auto;
   margin-bottom: 30px;
   border-radius: 5px;
 }
@@ -26,11 +40,21 @@ h1, h2 {
 }
 
 #submit {
-  /* display: block; */
-  height: 25px;
-  width: 175px;
-  background-color: green;
+  display: block;
+  font-size: 25px;
+  background-color: rgb(63, 107, 202);
   color: white;
-  margin-left: 20px;
+  margin: 0 auto;
+  margin-top: 25px;
+  /* margin-left: 20px; */
   border-radius: 5px;
 }
+
+#capInput {
+  display: block;
+  margin: 0 auto;
+  height: 25px;
+}
+
+
+

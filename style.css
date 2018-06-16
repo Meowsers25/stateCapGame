@@ -54,6 +54,10 @@ h1 {
   display: block;
   margin: 0 auto;
   height: 25px;
+  border-radius: 5px;
+  font-size: 25px;
+  font-family: monospace;
+  text-align: center;
 }
 
 
